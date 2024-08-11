@@ -1,6 +1,4 @@
 Flask==3.0.3     
 pymongo==4.8.0
 pdfplumber==0.11.3
-nltk==3.8.2
-spacy==3.7.5
 anthropic==0.33.0
