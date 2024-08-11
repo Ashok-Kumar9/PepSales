@@ -1,0 +1,1044 @@
+{
+  "transcript": [
+    {
+      "timestamp": "0:00",
+      "speaker": "Matt",
+      "dialogue": "how's it going?"
+    },
+    {
+      "timestamp": "0:03",
+      "speaker": "Nathan",
+      "dialogue": "Living."
+    },
+    {
+      "timestamp": "0:03",
+      "speaker": "Matt",
+      "dialogue": "the dream?"
+    },
+    {
+      "timestamp": "0:05",
+      "speaker": "Nathan",
+      "dialogue": "Yeah."
+    },
+    {
+      "timestamp": "0:06",
+      "speaker": "Matt",
+      "dialogue": "Better. I would probably get some work done. A man, I'm in a wall of meetings like there. We've\ngot, a bunch of customer meetings coming up and I'm just getting pulled into every, everything\npreparation for it. And it's killing me so."
+    },
+    {
+      "timestamp": "0:22",
+      "speaker": "Nathan",
+      "dialogue": "Are you being brought into a lot of customer meetings?"
+    },
+    {
+      "timestamp": "0:28",
+      "speaker": "Matt",
+      "dialogue": "Yeah. I tend to be there in one way shape or form... so."
+    },
+    {
+      "timestamp": "0:40",
+      "speaker": "Matt",
+      "dialogue": "I come in with a marketing bend, user adoption ways to improve it... showcasing benchmarks\nagainst, you know, other customers and stuff like that. So I put on kind of... a conversion\noptimization had, I guess, and then I talk and then I'm kind of like our resident primary care\nexpert too. So, yeah."
+    },
+    {
+      "timestamp": "1:05",
+      "speaker": "Nathan",
+      "dialogue": "So you get your hands full. It sounds like."
+    },
+    {
+      "timestamp": "1:08",
+      "speaker": "Matt",
+      "dialogue": "Trying to get some of it off my plate. Yeah."
+    },
+    {
+      "timestamp": "1:13",
+      "speaker": "Nathan",
+      "dialogue": "Nice. Is, is, Trevor?"
+    },
+    {
+      "timestamp": "1:18",
+      "speaker": "Matt",
+      "dialogue": "Did I invite him? I did not invite him? I."
+    },
+    {
+      "timestamp": "1:22",
+      "speaker": "Nathan",
+      "dialogue": "no worries. Okay. I don't know. I used, the e-mail that you accepted when I originally sent over\nthe invite because I think I invited the, Matt dot Hodges at abc health. Dot com."
+    },
+    {
+      "timestamp": "1:37",
+      "speaker": "Matt",
+      "dialogue": "Yeah, that's me."
+    },
+    {
+      "timestamp": "1:39",
+      "speaker": "Nathan",
+      "dialogue": "And then it looks like."
+    },
+    {
+      "timestamp": "1:45",
+      "speaker": "Nathan",
+      "dialogue": "there is another one, the math that Florence O. S. Com accepted. Yeah."
+    },
+    {
+      "timestamp": "1:51",
+      "speaker": "Matt",
+      "dialogue": "I've got three different emails. So, at Hodges at Florence OS is still technically our google. So\nif you all use Gmail google apps, it probably is gonna force back what the actual account is\nbecause technically my abc one is still an alias because we haven't converted our google\nenvironment yet."
+    },
+    {
+      "timestamp": "2:09",
+      "speaker": "Nathan",
+      "dialogue": "Shooting it over to the Florence one then from now?"
+    },
+    {
+      "timestamp": "2:12",
+      "speaker": "Matt",
+      "dialogue": "No, I mean, it's all the same. Yeah, if you don't mind getting like an odd like different domainback us on the big deal."
+    },
+    {
+      "timestamp": "2:20",
+      "speaker": "Nathan",
+      "dialogue": "Yeah, no problem by me but no, that sounds."
+    },
+    {
+      "timestamp": "2:23",
+      "speaker": "Matt",
+      "dialogue": "You, you can e-mail Matt dot Hodges at zypnosis. Dot com, and get me some."
+    },
+    {
+      "timestamp": "2:27",
+      "speaker": "Nathan",
+      "dialogue": "I'll hit them all. I'll make sure we get all three on, but sweet, well, if it's just gonna be the two of\nus, we can kick things off. That sound good?"
+    },
+    {
+      "timestamp": "2:35",
+      "speaker": "Matt",
+      "dialogue": "Yeah. I think he's... I'll see if he wants to join. I know he's busy."
+    },
+    {
+      "timestamp": "2:43",
+      "speaker": "Nathan",
+      "dialogue": "No worries. Has he been involved in some of the conversations with like lassa or tech target?"
+    },
+    {
+      "timestamp": "2:53",
+      "speaker": "Matt",
+      "dialogue": "Yeah, yes."
+    },
+    {
+      "timestamp": "3:00",
+      "speaker": "Nathan",
+      "dialogue": "Worst case scenario, what we can do is send them a recording this and I can."
+    },
+    {
+      "timestamp": "3:06",
+      "speaker": "Matt",
+      "dialogue": "I mean, it's more like it's more just so he can kind of be aware of options. Yeah, it's not like\nthat. I have to. So."
+    },
+    {
+      "timestamp": "3:17",
+      "speaker": "Nathan",
+      "dialogue": "cool. Again, we'd love to obviously get him involved assuming that he's available. And when we\nschedule any further calls, we can more than happy to include them. But awesome. Let's I\nguess just kick things off. But I was thinking today, Matt, like I don't goal of what I thought would\nbe a productive call would be really just walk you through a six sons gonna help you know, you,\nyour team more effectively identify the accounts that are actively shopping for a fabric, and\nboost the metrics that your team cares about. The ones that you shared with me on the last call.\nMost importantly, like you walk away from this call like excited that xyz can help that that's\nsound good?"
+    },
+    {
+      "timestamp": "3:54",
+      "speaker": "Matt",
+      "dialogue": "Yeah, sounds good."
+    },
+    {
+      "timestamp": "3:56",
+      "speaker": "Nathan",
+      "dialogue": "Awesome for just a agenda put together a few slides just to provide like a little bit of context as\nto like how we're gonna be able to help solve for those areas of opportunity, that I uncoveredfrom our call from the other day, we'll dive into the demo where we'll spend like the majority of\nthe time. And then we'll wrap with some pricing and some next steps. So where we're going to\nfocus the time is gonna be a lot of on the marketing side. First, obviously given your role where\nyou would operate time permitting, I can get into like where sales might operate if we see fit, but\nwe can also leave that as a follow up step depending on I was thinking we can like as a follow\nup step, get deeper into the platform like bring out other folks from your team who would have\nan opinion on the sales side, marketing side, whatever we see fit. But."
+    },
+    {
+      "timestamp": "4:42",
+      "speaker": "Matt",
+      "dialogue": "I would love to get a glimpse at it. I mean, I spent like six years of my career as a recruiter. So,\nand I still sell some today. So it would be good. I don't know... it's gonna take just because, the\nsales were being built like depending on them, to want to add something else to their list, is\nprobably low. So I would rather grasp it. So I can understand it, if I see the value in it. So I can\ndo some internal positioning because part of, yeah, I think that's the short answer they're just\nlike they're hiring and trying to get people on boarded. And so adding another tech stack into it\nis via maybe later. But if."
+    },
+    {
+      "timestamp": "5:30",
+      "speaker": "Nathan",
+      "dialogue": "so that sounds like a great plan. I was honestly thinking like oftentimes with these types of\nconversations like we'll keep at high level to start and especially like as you see like the sales\nside being a potential fit like that could help build your business case internally. As this being like\na future proof solution where it's like where the Immediate use case is gonna be on the\nmarketing side. Like guys like future state when we start to marry. The two here's how the sales\nteam can operate using the same data set and really making sure that we're operating and kind\nof just like the same direction. So more than happy to spend some time there but... cool. Well, in\nwhich case, I prepared like two three slides to cover just because I want to clarify a few things\nthat I want to show today. So I'm gonna share my screen with you really quick. All right. Are you\nable to see that sweet I'm, not going to regurgitat everything because obviously we had this call\njust two days ago. But like I'd love to start with what I took away from that conversation and it\nsounds like you're at an inflection point abc right now, like newly formed organization, just raise\nsome money. Like you're building on your marketing strategy. Like ABM is gonna play a crucial\nrole here like the surface level challenges you mentioned like narrow total addressable market,\nlike long deal cycles, lacking visibility, like within that addressable market of who's actually\nshopping for a solution like abc like what I uncovered. And I think is like the bigger problem here\nis that there's a pipeline gap. And right now, if like you don't have a solution or anything to kind of\nchange that like the team is not in a position, to hit aggressive future revenue targets just to\nconfirm like you mentioned that there is enough pipeline to hit your goal for this year, it's next."
+    },
+    {
+      "timestamp": "7:19",
+      "speaker": "Matt",
+      "dialogue": "Yeah, yeah. I would say we are ahead of schedule on what we need to do to hit aggressive\ngoals. And... I think where it starts getting interesting is the second half of the year. Have we\ndone enough in the first half in order to make the second half of the year? But we're going to\nhave a record here either way right now. So... so, my statement in that is like if we don't have\nenough to go into the second year, it speaks to the inefficiency. But it's not really that big of asurprise because we didn't really turn the lights back on until the beginning of this year. So we're\nplaying from behind to some degree and I don't know to what degree we're gonna be playing\nbehind in 2025 but I'm thinking 2025 at this point because I, in my mind, I'm already over half\nway through this year from a marketing perspective. Yeah. So where would you like?"
+    },
+    {
+      "timestamp": "8:13",
+      "speaker": "Nathan",
+      "dialogue": "Like draw the line of like the delineation of like why you're going to have a record year versus\nlike where it might be like a little bit risky in maybe six months from now?"
+    },
+    {
+      "timestamp": "8:28",
+      "speaker": "Matt",
+      "dialogue": "Because what was built on the backs of a really small team, and, in a pop off of the rebrand and\nthe visibility and everything that we had going. So just because we rebranded in january 30 first,\ndoesn't mean we weren't telling the story to the market a little bit of how to schedule on that.\nAnd so now I've got, you know, three new salespeople that have come on board in the last like\ncouple of months. I've got two new accounts that are on board. So I think we were sufficiently\nscaling for what we had and we're not necessarily built for where, we, we've grown that's my\npoint. But I mean, again, we just turn lights back on a lot of stuff. And so I would say a lot of\nmomentum is built off the fact that like the brand and the message and the combined product\noffering between, you know, the three companies that turned into the one really positioned us, in\na good spot. So doors are opening faster than they used to for us."
+    },
+    {
+      "timestamp": "9:29",
+      "speaker": "Nathan",
+      "dialogue": "That's awesome. I mean, honestly like being in that position like transparently, most companies,\nI talked to you like they're in the other side where it's like we need to like we're so far behind and\nwe need to act now, which I guess I'd flip that question on you. It's like why is this a problem\nworth solving now? Like?"
+    },
+    {
+      "timestamp": "9:47",
+      "speaker": "Matt",
+      "dialogue": "I mean, it didn't have an, a problem because you want to grow. I mean, at the end of the day like\nwe have aggressive sales goals and, you know, anything that we're off on things that we're\ngonna be off. And that's why I'm obsessed about next year, anything we're off. And these were\noff more about next year. I mean, when we re calibrate, yeah, but nobody wants to do that. So\neven if we're off for a little bit this year, but the pipe has grown enough this year to justify next\nyear's, growth, then we're okay, we've strategically done what we needed to do even if the sales\ncycle didn't hit the mark on us. So."
+    },
+    {
+      "timestamp": "10:17",
+      "speaker": "Nathan",
+      "dialogue": "And the reason I'm asking these questions is like I'd love to partner with you to like help build\nthis business case internally. And so often when I'm having these conversations, you know,\nyou're bringing this to the, you know, people who originally who are essentially going to sign\nsome checks and they're gonna say, you know, what's been working is already working like why\ndo we need to invest more into a?10:36 | Matt\nThey're, they're not gonna say that I'm because I think everybody is acutely aware that... we\nhave aggressive goals and I think everybody is acutely aware... that we've got to continue to\nturn the knobs up in order to continue to build momentum. So, I do, I mean whether or not this is\nthe right technology is probably is a right question then more so than are we going to do\nsomething different because we're do something different. And right now, my team is heavily\nfocused on still trying to make the transition for the brand. I've still got a third brand that I've got\nto fold in because their web properties still sitting out there and that's happening this month. And\nthen I've got to get a bunch of marketing content, support the products because they didn't have\na marketing team. So like I'm doing a lot of like rudimentary stuff that has got to be foundational,\nand it will help with lead gen. But, you know, it's not necessarily gonna be opening the top of the\nfunnel. So."
+    },
+    {
+      "timestamp": "11:40",
+      "speaker": "Nathan",
+      "dialogue": "Yeah. So you're working."
+    },
+    {
+      "timestamp": "11:41",
+      "speaker": "Matt",
+      "dialogue": "on a few?"
+    },
+    {
+      "timestamp": "11:42",
+      "speaker": "Nathan",
+      "dialogue": "Things like when would you want something in place?"
+    },
+    {
+      "timestamp": "11:47",
+      "speaker": "Matt",
+      "dialogue": "Mean, I can't answer that without knowing like, you know, what the value is and what the cost is.\nBecause, I mean, I do have, I do have baby steps into arenas where we can do this and it not\nbe... something that's gonna break the bank. So."
+    },
+    {
+      "timestamp": "12:04",
+      "speaker": "Nathan",
+      "dialogue": "Yeah. Obviously pricing is always going to be a factor. So let's walk through that."
+    },
+    {
+      "timestamp": "12:08",
+      "speaker": "Matt",
+      "dialogue": "Features and benefit, right?"
+    },
+    {
+      "timestamp": "12:10",
+      "speaker": "Nathan",
+      "dialogue": "Yeah, for sure. Well, that's great to know. I think like one of the things that, you know, to think\nabout your future state like a lot of these goals that we talked about, you know, you're looking at\nin ABM strategy and a lot of these goals are kind of lead based, right? Like to start like you want\nto say like you're increasing your mqls is like what you're looking to do when you think about like\nincreasing your mqls. Do you just need to generate more of them? Or do you, do they need to\nbe like more quality mqls, more quality?"
+    },
+    {
+      "timestamp": "13:23",
+      "speaker": "Nathan",
+      "dialogue": "We, as a follow up to this conversation, we actually launched a conversational e-mail tool that\nessentially, like would take the place of like a BDR as a solution. That as you mentioned, like\nemails can essentially be coming from you but take the place of a BDR. So we can actually walk\nthrough that as a follow up. I'll bring in like a technical resource. Assuming that's like a big\npriority for you. Like I'm more than happy, to take that as a."
+    },
+    {
+      "timestamp": "13:48",
+      "speaker": "Matt",
+      "dialogue": "I don't know that it's a big priority. I mean, because, you know, I think what I'm gonna do right\nnow is fill the gap of like, I had a quarters where the leads come through and I don't think they\ngot touched as frequently as they should have been. And, and that's it's fine. But I'm not going\nto let it happen again. You know what I mean? So, yeah. So, I know I, a, if I know they're going\nto hit them two to three times in a quarter and, I can hit them three times. Then I'm gonna hit the\nsixth threshold that is my benchmark for how many times someone needs to be touched before\nyou move on. And I hope they reengage at some point and come back through, right?"
+    },
+    {
+      "timestamp": "14:21",
+      "speaker": "Nathan",
+      "dialogue": "Yeah, we can completely automate that for you as far as that lead follow up. But on that same\nnote, like our kind of philosophy is like leads don't buy like accounts do. And at the enterprise\nhealthcare level, you mentioned there's gonna be 20 people who are gonna be involved in\nthat purchasing decision. So we're gonna spend like a lot of the time today on like how an\naccount based approach can enable you to get to your pipeline goals, those aggressive goals\nand the\nother metrics that you care about. Like even our CRO formerly CMO, she's very passionate\nabout multithreading like even if it's an inbound requests, like if we're not hitting five ish people\noutside of them, like because that's who makes the decisions? Like when you go to your team,\nlike I'm sure like there's gonna be a number of conversations that you have internally and\nwhatever solution that you do move forward with of like let's get some ground swell to like have\nan opinion across a couple of different people, not just one person making those decisions. So\nthat's a kind of basis of where we're gonna take today of let's make sure that we can help\nenable you with like the right data to get you to your pipeline goals. With that like one of the last\nquestions before I get into the next slide is like who else use you said, like you're kind of like\nupset about this, like future state of like revenue or pipeline goals and like making sure that\nyou're getting there. Who else are you having these conversations with internally?15:37 | Matt\nI mean, I, myself and the VP of sales and basically the guy over account management and\ncustomer success. The three of us I think, are acutely aware of it. They're thinking more present\nthe this year, I'm thinking beyond that, so."
+    },
+    {
+      "timestamp": "15:54",
+      "speaker": "Nathan",
+      "dialogue": "Cool. Well, in which case, we'll show you some ways that we can obviously get you the data you\nneed to get to your goals six months from now as well as the sales team to get theirs from there\non. Frequently. One thing that I like to bring up, I mentioned a lot about our data. I always will, I\nactually ask our prospects to test our data not because I love adding multiple steps to my sales\nprocess, but because we always win those tests and our ability to cover who's in market for your\nsolutions. It's not just me telling you that if you look at the intent providers, like we come in first\nplace every year in terms of the intent data quality and you're also not just getting xyz, you're\ngetting Bombora 12 and 10 topics with your subscription to xyz basically telling you our ability to\nbreak you into deals earlier is by far the best in the industry and engage those accounts in\nquality of leads."
+    },
+    {
+      "timestamp": "16:44",
+      "speaker": "Matt",
+      "dialogue": "I'm pretty sure tech targets using Bombora to, on the backside of theirs to augment the\nproperties that aren't theirs. But, yeah. Okay."
+    },
+    {
+      "timestamp": "16:52",
+      "speaker": "Nathan",
+      "dialogue": "Which case, I also know that there's some key differentiators between xyz and tech target as\nfar as our ability to capture some of this intent. But regardless again, it's invalidated as a xyz as\na leader in space. Yeah. Last thing before I get into the demo, the results that our customers\nsee after one year like this, every quarter, we take 130 clients, we measure the ROI stats,\nwhich by the way, like we can provide these to you with six sense data every quarter because\nwe provide you with quarter reviews on your own metrics. Keep in mind, these are averages.\nWe eliminate the top 20 percent and bottom 20 percent to get rid of anomalies. Opportunity\nvolume goes up by 40 percent, win rate up by 13 percent, deal size 45, being able to know like\nwhich enterprise companies, are actively looking what they care about, what could also lead to\na massive reduction in time to close? Like why is this? Like these are the data points is\nbecause it's a lot easier to sell and market when, you know, who's actively shopping."
+    },
+    {
+      "timestamp": "17:52",
+      "speaker": "Matt",
+      "dialogue": "So, you get rid of 40 percent of your business cases. So, and,"
+    },
+    {
+      "timestamp": "17:57",
+      "speaker": "Nathan",
+      "dialogue": "yeah."
+    },
+    {
+      "timestamp": "17:59",
+      "speaker": "Matt",
+      "dialogue": "Okay. Interesting. Normally, you can see something like the 10 percent. So, you know, it makes\nyou wonder like how big is, the bottom 20 percent of a problem? But yeah, anyway, not a bigdeal. Just a."
+    },
+    {
+      "timestamp": "18:13",
+      "speaker": "Nathan",
+      "dialogue": "Yeah. I can tap my team more into, the framework that we use to get these numbers, but... in\nwhich case, I'm gonna switch my screen to get into the actual demo itself so that we can get\nright into it. Cool. Are you able to see that?"
+    },
+    {
+      "timestamp": "18:32",
+      "speaker": "Matt",
+      "dialogue": "Yeah."
+    },
+    {
+      "timestamp": "18:33",
+      "speaker": "Nathan",
+      "dialogue": "Awesome. Well, what we're seeing here is a dashboard that you would log into every day like\nthis is xyz live production instance of xyz here. And what this dashboard is showing you is one,\nhow many accounts are interacting with the xyz brand, and this is 233,000 accounts in the last\n30 days. And then from there, it's how much of that is website activity, and how much of that is\nhappening off of your website. With B to B network activity. One of the key things of what?"
+    },
+    {
+      "timestamp": "19:06",
+      "speaker": "Matt",
+      "dialogue": "B to B network activity? What is it? What do you classify as that?"
+    },
+    {
+      "timestamp": "19:12",
+      "speaker": "Nathan",
+      "dialogue": "Those are a third party intent that's how we're able to capture them, anything that."
+    },
+    {
+      "timestamp": "19:16",
+      "speaker": "Matt",
+      "dialogue": "That means they're showing interest in topics like ours, not necessarily interacting with us on\nthird parties. So that's."
+    },
+    {
+      "timestamp": "19:22",
+      "speaker": "Nathan",
+      "dialogue": "they're interacting with a network of roughly 3,000,000 B2 B publishers that we have."
+    },
+    {
+      "timestamp": "19:28",
+      "speaker": "Matt",
+      "dialogue": "With some more content to what we sell basically is what you're saying?"
+    },
+    {
+      "timestamp": "19:31",
+      "speaker": "Nathan",
+      "dialogue": "Correct. And that's across and I can get to, I'll just get into it. Basically how we capture this third\nparty data is through keywords, which is gonna be very different than a lot of essentially every\nother vendor is keywords, allow you to get very granular as far as what you're tracking in terms\nof what's happening off of your website, companies that are doing research about your\nsolutions, your category, your competitors before they come to your website, that's looking at all\nof these keywords for these different types of ones. So we're seeing generic keywords and\nbranded keywords, those are two different flavors that we have. Generic keywords are gonna be\nmore top of the funnel research terms that accounts are looking up like care enablement\nsystems, clinical capacity, and automation, like intake triage and routing branded keywords onthe left are things like your company, name, specific products of fabric, any of your competitors.\nAnd we can track this again more accurately than anyone in the space of being able to identify\nwho is doing that research. Both of these keywords will allow you to be as relevant as possible\nwhen you start to run some of your ads through six sons and your messaging. So that is your\nkeyword data here. And then there's gonna be your onsite data which I understand that you're\nyou don't have today?"
+    },
+    {
+      "timestamp": "20:58",
+      "speaker": "Matt",
+      "dialogue": "I mean, no, I like, in terms of de, anonymizing data. No. Okay. I don't have that today. So."
+    },
+    {
+      "timestamp": "21:06",
+      "speaker": "Nathan",
+      "dialogue": "So this is really powerful. Some of these numbers that you're gonna see on the bottom here. So\nin the last 30 days, what this is telling us is that."
+    },
+    {
+      "timestamp": "21:13",
+      "speaker": "Matt",
+      "dialogue": "I'll say this, yes, we do, but it's not very good. That's what I would say. Yeah."
+    },
+    {
+      "timestamp": "21:19",
+      "speaker": "Nathan",
+      "dialogue": "You're getting that today from?"
+    },
+    {
+      "timestamp": "21:21",
+      "speaker": "Matt",
+      "dialogue": "Hubspot? No mad stuff. Yeah."
+    },
+    {
+      "timestamp": "21:23",
+      "speaker": "Nathan",
+      "dialogue": "Yeah. Got it. Awesome. Hubspot is a partner of ours. They are a customer of ours. They actually\nuse xyz to de anonymize like the same way that, we would be helping fabric, they use to help\nde, anonymize their own website traffic actually Hubspot came out with the stat is that only three\npercent of your website traffic. So it's a form which means that the other 97 percent of your\ntraffic is just roaming around your website, going to your forms, not actually filling them out. And\nI."
+    },
+    {
+      "timestamp": "21:54",
+      "speaker": "Matt",
+      "dialogue": "that doesn't shock me like in any stretch of imagination because if you look at your traffic and\nnumber of forms positions, you should be able, to back into that one, but yeah, I,"
+    },
+    {
+      "timestamp": "22:04",
+      "speaker": "Nathan",
+      "dialogue": "is gonna be able to, do we ensure your team is seeing all of those accounts that are not filling\nout that form so that you can target them effectively. All you do, you place a web tag on your\nsite, track that data to anonymize, the visitor, match them back to an account?"
+    },
+    {
+      "timestamp": "22:22",
+      "speaker": "Nathan",
+      "dialogue": "Any types of like keywords that you would like start to think or like any bubbling up right now\nthat you would think about tracking?22:29 | Matt\nYeah, asynchronous are asynchronous telemedicine... clinical symptom, gathering."
+    },
+    {
+      "timestamp": "22:40",
+      "speaker": "Matt",
+      "dialogue": "Health care chat, bot, conversational, AI and healthcare. Those, those would bubble up pretty\nsignificantly in intake triage and routing. You, you had those, I don't know clinical automation is\nprobably interesting. I just don't know how prevalent it is right now. So."
+    },
+    {
+      "timestamp": "22:58",
+      "speaker": "Nathan",
+      "dialogue": "Yeah. What's gonna be important? Again? Like the unlimited part of that? So as your business\nchanges, like you can continuously update and upload new keywords, as you see new\ncompetitors in the space, you can upload those like let's say you're one of your sales reps runs\ninto a new competitor. They've never seen the next day, you can upload that keyword and see\nfor the last 30 day period. Like how often your target accounts, we're doing research on that\ncompetitor. And this allows you to unlock the most accounts in market, more accounts in market,\nmore Rev in opportunities. So simply put this dashboard captures anybody in any company\nthat's doing research on your website from a first party third party perspective. But because\nsome of these companies are probably never going to sell to and they're not a good fit for fabric,\ngiving you the space that you plan. What you want to do from here is create your own audiences\nbased on what you identified as being your icp."
+    },
+    {
+      "timestamp": "23:53",
+      "speaker": "Matt",
+      "dialogue": "Yeah. How."
+    },
+    {
+      "timestamp": "23:54",
+      "speaker": "Nathan",
+      "dialogue": "We do that is through what we call segments and it's essentially just a creation of like lists of\ntypes of accounts that fit within your icp, making it a more subset finite number of accounts to\nactually go after. There would be a good fit for you to reach out to... flipping over to segments.\nThe way that I'd like to think about it top of the funnel, middle of the funnel, bottom of the funnel\nas easy ways to think about how you would potentially segment your different audiences. So\nwhat you can do is you can break these down by the industry obviously, and you can have that\nbe a part of every different segment that you have. You can have your top of the funnel\nsegments include specific intent keywords, but maybe they were looking up some of those\ngeneric keywords, like you were talking about. So anyone that was looking up maybe that... but\nlike not coming to your website, and then you could start to hit them up with some of those top\nof the funnel campaigns. As you continue to get more intent from those people. And you talked\nabout one of those key metrics is the increase in engagement to get them to an MQL or\nessentially get them to a place where they're showing engagement. Then you can hit them with\nmore of that bottom of the funnel. So you can create a segment of people that are coming to\nyour website. So these are all different segments that you can create based off of a number of\ndifferent filters that you see as relevant and can get as finite with these types of segments as\nyou need to... basically allows you to slice and dice it and activate these types of audiences into\nthe different campaigns that you want to do.25:35 | Matt\nCool. And then I, so here's, the unique challenge I've got. I guess each one of these folders\ncould be, have a different funnel. Is that fair or not? Yeah."
+    },
+    {
+      "timestamp": "25:48",
+      "speaker": "Nathan",
+      "dialogue": "Yeah. This is just an example of different segments."
+    },
+    {
+      "timestamp": "25:51",
+      "speaker": "Matt",
+      "dialogue": "Okay. But yeah, because the three product lines we've got make it interesting like there's some\ncomplexities with that, but I've just got to figure out. So is there anything we?"
+    },
+    {
+      "timestamp": "26:07",
+      "speaker": "Nathan",
+      "dialogue": "Worth sharing that would help me explain anything more? A?"
+    },
+    {
+      "timestamp": "26:13",
+      "speaker": "Matt",
+      "dialogue": "No, it's UI... U, I would in essence, can there be overlap between the folders? Does that make\nsense?"
+    },
+    {
+      "timestamp": "26:23",
+      "speaker": "Nathan",
+      "dialogue": "Yeah. Also by the way, so that anytime someone fits the criteria within these segments, you're\nnot manually adding that new account that it comes into that segment."
+    },
+    {
+      "timestamp": "26:34",
+      "speaker": "Matt",
+      "dialogue": "Yeah. I mean, I'm just saying, I may want an aggregate folder that is just like the whole\ncompany. And then I may have like nuance ones that would be drill down and say, all right, well,\nI really want to make sure that I'm tracking the people that are interested in our engagement\nsuite. I want another folder that's just the ones, that are more interested in our virtual care suite,\nand another one that's more interested in our inperson care suite. And there may be overlap\nand there may be equal interest in them or may not be probably isn't... more than likely to be\ntwo or three versus all three for most of them. But it would be interesting to be able to like, to do\nthat. So I could get an overall appeal for the entire thing and then get granular on each one of\nthe products. So."
+    },
+    {
+      "timestamp": "27:20",
+      "speaker": "Nathan",
+      "dialogue": "100 percent. And we can, I mean we do that ourselves, right? So we have a, we have different\nproduct offerings at six. We have our core marketing use case that we're going through today.\nWe have a sales use case and we segment our audiences by their interest in those different\nproducts. So we can test this data for you as a means to justifying like the way that you'd be\nable to run some of these or some of these segments, cool. So."
+    },
+    {
+      "timestamp": "27:44",
+      "speaker": "Matt",
+      "dialogue": "Yeah, because I mean I might for the reason why I'm doing that is if your campaigns are built off\nof it the top one, I would be very general brand awareness, but then I would rotate in and hitthem with specific stuff about the particular products they're interested in. So they're not always\ngoing to get the one about the product and may get the general brand awareness. But the\nbreadth of our product offering, you know?"
+    },
+    {
+      "timestamp": "28:05",
+      "speaker": "Nathan",
+      "dialogue": "Yeah, that exactly. I think you're thinking about it like exactly what like way that I wish most of my\nprospects, would also think about it of like how they would start to leverage this data. So that's a\ngreat, obviously, great idea of like using this as a brand awareness campaign, pushing it out to\nthe different products within that specific segment. We can get very specific as to who you want\nto target. Once we have these segments built. Again. Like the value here is like two fold like it's\na set it and forget it model. Like you and your sales team will be notified via slack or e-mail as\nsoon as an account enters these audience segment es, maybe let's say bottom of the funnel\nones that are you ready to be engaged by sales, allow you to execute on your account based\nstrategy. So like anytime someone, you know, I get an e-mail every day alert from six tens that\nsays here are the five to 10 accounts that are showing, you know, high intent going to your\nwebsite, looking at these different keywords, you know, looking up our competitors, and that's\nwhere how I know to prioritize my day, you can push these out to sales. You can take action also\nby syncing these out to your different advertising channels, so you can sync this to google ads,\nLinkedin met up. And then you could also push these to Hubspot. So if you think about running\ne-mail nurture campaigns, is that something that you'd think about using the data, to help with?"
+    },
+    {
+      "timestamp": "29:29",
+      "speaker": "Matt",
+      "dialogue": "A."
+    },
+    {
+      "timestamp": "29:30",
+      "speaker": "Nathan",
+      "dialogue": "push this directly into Hubspot as well. Okay?"
+    },
+    {
+      "timestamp": "29:36",
+      "speaker": "Matt",
+      "dialogue": "What about braze or iterable or Marketo?"
+    },
+    {
+      "timestamp": "29:43",
+      "speaker": "Nathan",
+      "dialogue": "Yeah, we're using different tools for the different are."
+    },
+    {
+      "timestamp": "29:46",
+      "speaker": "Matt",
+      "dialogue": "No, no. We're, we're launching basically an agency within the company for our customers. So\nI'm gonna pick up a new marketing automation suite because I can't use Hubspot for patients,\nbut I don't want to use two marketing automation suite. So we migrate off the Hubspot\ncompletely. The sales team is migrating of into Salesforce already?"
+    },
+    {
+      "timestamp": "30:08",
+      "speaker": "Nathan",
+      "dialogue": "Okay."
+    },
+    {
+      "timestamp": "30:09",
+      "speaker": "Matt",
+      "dialogue": "And Hubspot got some inherent like kind of painful things about its marketing automation suite.So."
+    },
+    {
+      "timestamp": "30:17",
+      "speaker": "Nathan",
+      "dialogue": "Okay. We use Marketo internally. So, yeah. So if that's one of the ways or one of the tools that\nyou're thinking about like."
+    },
+    {
+      "timestamp": "30:25",
+      "speaker": "Matt",
+      "dialogue": "Yeah, although I'm leaning away from it right now. But yeah, brasen, and iterable or the other\ntwo, I'm looking at them. So."
+    },
+    {
+      "timestamp": "30:33",
+      "speaker": "Nathan",
+      "dialogue": "Okay. Let me talk to my team as far as how we can push some of these segments into there is\nour ability to do that. But again, I also keep us posted on like the status of like that Evaluation is\nlike we might need to talk through it a little bit more."
+    },
+    {
+      "timestamp": "30:53",
+      "speaker": "Matt",
+      "dialogue": "Okay."
+    },
+    {
+      "timestamp": "30:54",
+      "speaker": "Nathan",
+      "dialogue": "In which case, again like push these out to your sales team, push these out to the different\nadvertising campaigns. But the analytics here of the reporting on these segments is what a lot of\nour customers like lot within six sense. And we can actually tell you how these segments are\nperforming. So we can start to say of the total accounts that we're working with, how many have\nwe seen an increase in engagement because we started to run these in take action on these\nsegments. The new pipeline that was built from that, as well as the actual revenue one, by\nintegrating with your CRM... we can also see exactly what you were talking about before some\nof those metrics that we were looking at. So when you say one of the things was... making sure\nthat you wanted to increase that engagement from that MQL and making sure that you're able to\nstart to track that here, we can actually see a baseline timeframe versus an analysis timeframe\nof what was the level of engagement within these accounts that we're targeting over the course\nof that time. So you can have essentially a measurement of anything that you've been working\non, whether that was, you know, people in these segments in these campaigns to actually track\nand report on."
+    },
+    {
+      "timestamp": "32:10",
+      "speaker": "Matt",
+      "dialogue": "Okay."
+    },
+    {
+      "timestamp": "32:12",
+      "speaker": "Nathan",
+      "dialogue": "As you go down here are some additional points that we can talk through of the reach, the\nintent, the accounts with activity as well as the engagement on these accounts."
+    },
+    {
+      "timestamp": "32:29",
+      "speaker": "Nathan",
+      "dialogue": "Any type of now that I'm thinking about it, add campaigns that like your channels that you thinkyou'd be running with some of these segments of where you'd be pushing them out to."
+    },
+    {
+      "timestamp": "32:39",
+      "speaker": "Matt",
+      "dialogue": "We do some in google analytics. We do some in Linkedin, we dabbled in Facebook and never\ngotten a whole lot out of it. And then again, like so and their channels, which is on the xandr, it's\nbasically right on the xander write. I think it's xander network, yeah."
+    },
+    {
+      "timestamp": "33:02",
+      "speaker": "Nathan",
+      "dialogue": "Got it. So, one of the things that I actually want to pull up for you real quick is to switch gears\nhere. This would be an example of an advertising campaign report. So once you start to push\nthese segments out, you have full control by the way over the spend within each of, those ad\ncampaigns that you want to run. So we're not going to limit you or tell you how much you should\nbe spending. You have full control over that. You can target your ads to the persona that you'd\nlike to. And... we have no like minimum, you know, threshold for this. What this is going to tell\nyou was a lot of important stats of how these ad campaigns across these different channels\nwere, are performed. So we've got."
+    },
+    {
+      "timestamp": "33:50",
+      "speaker": "Matt",
+      "dialogue": "Can you push into social network?"
+    },
+    {
+      "timestamp": "33:54",
+      "speaker": "Nathan",
+      "dialogue": "Yeah."
+    },
+    {
+      "timestamp": "33:55",
+      "speaker": "Matt",
+      "dialogue": "Okay. So."
+    },
+    {
+      "timestamp": "33:57",
+      "speaker": "Nathan",
+      "dialogue": "So, we've got the total fund. We've got the accounts reached. We've got our click through rate,\nwhich is one step. But then we've also got our view through rate. View through rate is a really\nimportant stat that we look at because it's not actually if they've clicked through the ad, but if\nthey've seen the ad and then came back to your website."
+    },
+    {
+      "timestamp": "34:16",
+      "speaker": "Matt",
+      "dialogue": "Okay."
+    },
+    {
+      "timestamp": "34:16",
+      "speaker": "Nathan",
+      "dialogue": "One to indicate the success of those campaigns?"
+    },
+    {
+      "timestamp": "34:21",
+      "speaker": "Matt",
+      "dialogue": "The viewability staff give up there is pretty funny. You'll probably pull this from our CEO'S prior\ncompany, the viewability... because he's the one, that basically invented the viewability, and\ncreated the process to track that.34:39 | Nathan\nWhat's his prior company?"
+    },
+    {
+      "timestamp": "34:42",
+      "speaker": "Matt",
+      "dialogue": "It was mot."
+    },
+    {
+      "timestamp": "34:45",
+      "speaker": "Nathan",
+      "dialogue": "Yeah. They're familiar. I used to work in the media advertising space in a past and I was working\npretty closely with me in that I was like working on the publishing side helping advertisers run\nthat, that's interesting. I don't know that."
+    },
+    {
+      "timestamp": "35:03",
+      "speaker": "Matt",
+      "dialogue": "Yeah, that was the key thing of why anybody moved to them because they could cut everybody\nspend a 40 percent, basically, yeah, yeah, I mean."
+    },
+    {
+      "timestamp": "35:13",
+      "speaker": "Nathan",
+      "dialogue": "And that is essentially one of the value props of having this data like with six sense is that like\nyour spend like that's one of the key value like use cases that we talk through is like your ability\nto like leverage our data to be more effective and the ad campaigns that you run. So when you\ndecide to like turn this marketing engine back on and really start to push this out like you're\ntargeting the people who, you know, are engaged, you know, are actually looking at making a\npurchasing decision... couple of other call outs here, influence pipe reached engaged, the\nincreased engagement, some things that I know my customers like to bring to, their teams, the\ndistribution. I can get really granular here. What is also important is that you have full control\nover the domains that these are pushed out to so that you can have an exclusion list of the\ndomains that you don't want them to be actually surfaced and running on. So if there's obviously\nones that are better fits, then you can actually prioritize those. So."
+    },
+    {
+      "timestamp": "36:13",
+      "speaker": "Matt",
+      "dialogue": "Do, do... I haven't looked at and so you're pretty, your network is pretty much Bombora, right?\nIt's no, you don't have an additional one that's native which."
+    },
+    {
+      "timestamp": "36:24",
+      "speaker": "Nathan",
+      "dialogue": "we ever own DSP that we, okay. And the intent network, is our intent. It's not Bombora, intent.\nIt's a separate net. Like the Bombora is essentially like an addon of intent that we offer our\ncustomers of those topics, this intent that you're running those ad campaigns. These are all\nbased off the data set of six senses, first and third party intent."
+    },
+    {
+      "timestamp": "36:47",
+      "speaker": "Matt",
+      "dialogue": "Yeah. So, I mean, I'm just curious like in terms of intent, what kind of saturation you've got in\nindustry traits? Does that makes sense?36:56 | Nathan\nOkay. So, like what, the coverage that we have within the different?"
+    },
+    {
+      "timestamp": "37:00",
+      "speaker": "Matt",
+      "dialogue": "Yeah. Like, what digital publishers veteran, healthcare specific got, you know, the hymns media,\nthe backers, the fierce, you know, what have you?"
+    },
+    {
+      "timestamp": "37:12",
+      "speaker": "Nathan",
+      "dialogue": "Yeah, I do. I don't think I'm allowed to share like our partnerships, like what like our B to B\npublisher networks, like what those are, but what we can do a?"
+    },
+    {
+      "timestamp": "37:22",
+      "speaker": "Matt",
+      "dialogue": "I mean, they would show up right here in reporting though because you're showing where the\ndistribution is. So I'm asking like, yeah, if you're gonna show that's distribution for your ads and\nnot the intent, but you should be able to give me an idea of like what industry trades you've got\nbecause that's a value to me. If like if your intent is on our industry trades, I need to know which\nindustry trades you're doing intent on?"
+    },
+    {
+      "timestamp": "37:42",
+      "speaker": "Nathan",
+      "dialogue": "Yeah. Okay. I got it. Sorry, sure that I understood the question. Yeah, I mean, as far as like the\na."
+    },
+    {
+      "timestamp": "37:49",
+      "speaker": "Matt",
+      "dialogue": "Otherwise, we're missing like a major hot point of like, where our audiences hang out. So that's\nyeah, I."
+    },
+    {
+      "timestamp": "37:56",
+      "speaker": "Nathan",
+      "dialogue": "sure. I mean, like I said, we work with a number of different vendors in the space that target\nhealthcare specifically, and they rely on this data to like make those decisions. I can like go back\nand try to get you an idea of what that coverage is within the space. But I don't want to tell you\nanything that I don't know the complete answer to right now."
+    },
+    {
+      "timestamp": "38:16",
+      "speaker": "Matt",
+      "dialogue": "No, I understand that. I just, but like, yeah, I'm gonna push from that point that's all I'm\nsaying, so."
+    },
+    {
+      "timestamp": "38:20",
+      "speaker": "Nathan",
+      "dialogue": "Yeah, for sure. One of the things that... we are able to do and last thing that actually kind of\nwant to show is just the accounts reached by the campaign. So, as you think about like your\ntarget list, this is how you can start to see the engagement of those target accounts that you\nhave, and the ones that you're pushing these."
+    },
+    {
+      "timestamp": "38:46",
+      "speaker": "Nathan",
+      "dialogue": "As far as the marketing side, like there's a couple of more things that we can like dive deeper\non. And I can bring technical resource. If there's anything that we want to like explore more... as\nfor your ability to like kind of capture this data, run some of the campaigns that you want to like\nany like questions about like how you would execute on that strategy within six sense?"
+    },
+    {
+      "timestamp": "39:08",
+      "speaker": "Matt",
+      "dialogue": "No, I do, I mean, nothing about it seems like foreign to some of the things that we had done to\nthis point. So, yeah."
+    },
+    {
+      "timestamp": "39:16",
+      "speaker": "Nathan",
+      "dialogue": "What would like make you feel confident in our ability, to help you with some of those goals that\nyou have more so than ADRs?"
+    },
+    {
+      "timestamp": "39:24",
+      "speaker": "Matt",
+      "dialogue": "Intent, what publishers you like? I want to know that."
+    },
+    {
+      "timestamp": "39:29",
+      "speaker": "Nathan",
+      "dialogue": "Okay. So what we can do as far as like testing the intent that like for abc and let me know if you\nthink this would be like a good idea to help justify any like purchasing decisions would be to\nactually like test the quality of the intent that we have for fabric. The."
+    },
+    {
+      "timestamp": "39:48",
+      "speaker": "Matt",
+      "dialogue": "Also, I'd also like to know like you, what your coverage is for, the digital publishers though in our\nspace, yeah, because I mean that's, the thing about health care. And then when we're a little bit\ndifferent even than probably what your biotech company Florence is interested in."
+    },
+    {
+      "timestamp": "40:10",
+      "speaker": "Matt",
+      "dialogue": "Like we're not cross section and caring about consumers, we're not like broad in like the, our\nindustry hyper focuses in the same kind of industry traits and they're very niche. You know, you\nmay have never read fierce health care before, but it's a great digital publication in our space.\nLikewise backers looks oldest crap. It's a great digital publisher in our space. And so, I know\nthat our customers hanging out there and our prospects hang out there. So that's why I'm really\ninterested to understand what your coverage is."
+    },
+    {
+      "timestamp": "40:43",
+      "speaker": "Nathan",
+      "dialogue": "Because."
+    },
+    {
+      "timestamp": "40:43",
+      "speaker": "Matt",
+      "dialogue": "if you don't have that, then it means we're relying on like tertiary ads, I mean, tertiary articles\nand stuff that they're researching on larger networks until we're missing a massive section of the\npie.40:55 | Nathan\nYeah. I know that for a fact of all the different vendors in the space, like our like publisher\nnetwork, is the most fast like I can pull up data that supports that statement as far as telling you\nwhich exact publishers we work with. I don't think I'm able to do that. I think we can tell you our\ncoverage within the space. Potentially I can go to my team just to make sure that we're able to\nshare those types of stats of what amongst the millions of publishers we work with, like what\nour\ncoverage in the healthcare space is, would that be something that at least would give you some\nlike certainty?"
+    },
+    {
+      "timestamp": "41:31",
+      "speaker": "Matt",
+      "dialogue": "What you come back with, I may push harder so because again, like, you know, saying, I'm\ntrying to think of something saying that you've got coverage for healthcare articles and CNN\ndoesn't reach out to me that's what I'm saying that it's interesting, but you're catching a huge\ncross section of consumers in that audience and not my audience. So."
+    },
+    {
+      "timestamp": "41:53",
+      "speaker": "Nathan",
+      "dialogue": "Okay. Cool. Like I said, like I'm just on to have to go back to my team. I'll ask him that question\nand see how much in detail. I can give you, a good answer for that."
+    },
+    {
+      "timestamp": "42:04",
+      "speaker": "Matt",
+      "dialogue": "Okay."
+    },
+    {
+      "timestamp": "42:06",
+      "speaker": "Nathan",
+      "dialogue": "The other thing that I was gonna say assuming that you're comfortable with like whatever we get\nback to you with on that part is like in terms of making you feel comfort with xyz as a vendor to\nhelp you with those goals of, you know, running those campaigns that will help you increase the\nquality of your pipeline, getting that more engagement. One of the things that our prospects\ntypically like to do as a justification point is like test the intent, which in this case, you would\nsend us like keywords that you'd like us to branded and generic, as well as place a tag on your\nwebsite to track your onsite activity and the span of like five to 10 business days depending on\nhow quickly we can get the tag up and running. We can come back to you with a data review to\nessentially go over the intent for abc and justify this as saying like this intent is valuable and\nwould essentially help us get to, the goals that we need. Is that something that like would help\nyou make, a better more informed decision?"
+    },
+    {
+      "timestamp": "43:08",
+      "speaker": "Matt",
+      "dialogue": "It definitely would."
+    },
+    {
+      "timestamp": "43:08",
+      "speaker": "Nathan",
+      "dialogue": "Help. Awesome. What? Okay. So that aside, we've got some publisher questions that I'll go\nback to my team with. We can run this live data review to help you with this. Once we like kindof go through that. Is it something that you think? Like your VP of sales, your account\nmanagement team, like at least the head of that team would want to see?"
+    },
+    {
+      "timestamp": "43:30",
+      "speaker": "Matt",
+      "dialogue": "I don't know, you, I don't even know what the cost is. So like, I'm not even willing to go down\nthat road yet. So."
+    },
+    {
+      "timestamp": "43:34",
+      "speaker": "Nathan",
+      "dialogue": "Okay. Got it. Well. Let's talk cost for this at least upfront right now for what we're talking through\nis like far as xyz you'd be looking at roughly like on a yearly basis, 50 K annually. And there are\ncertain levers that we have in order to like help you get to a more like digestible price, that of\nwhich being like timing of signature, like if you can commit to a specific timeline, like we can\nreward you in the form of a discount, other variables that we have. And I'm sure there's gonna\nbe ones that your team cares about as far as like terms, that you guys care about. But we'll work\nwith you to get to a price assuming that you do see there's a fit. But as far as like just baseline\nprice for the yearly cost you'd be looking at like a 50 K price tag?"
+    },
+    {
+      "timestamp": "44:23",
+      "speaker": "Matt",
+      "dialogue": "Okay. And so if we were going to test it, I would give you keywords and an ABM list and, you\nwould return information back to me in terms of that?"
+    },
+    {
+      "timestamp": "44:33",
+      "speaker": "Nathan",
+      "dialogue": "Yeah, exactly. So you would, I'll send her with instructions so that, you know, to memorize this.\nBut essentially, you send a realistic keywords, it's gonna be the generic keywords, like top of the\nfunnel stuff. Seo keywords are a great place to start. Then you'd have the brand keywords. So\nlike your own."
+    },
+    {
+      "timestamp": "44:48",
+      "speaker": "Matt",
+      "dialogue": "You."
+    },
+    {
+      "timestamp": "44:49",
+      "speaker": "Nathan",
+      "dialogue": "got competitors names, anything like that. We'll track that for you. Then we'll place the tag on\nyour site. I'll send you instructions. I'll send you the tag to put on your site. And then we will track\nthat for you."
+    },
+    {
+      "timestamp": "45:01",
+      "speaker": "Matt",
+      "dialogue": "Okay. So you're not as concerned about the ABM side of it. You wouldn't want the ABM list?\nWhat do you?"
+    },
+    {
+      "timestamp": "45:06",
+      "speaker": "Nathan",
+      "dialogue": "I mean?"
+    },
+    {
+      "timestamp": "45:10",
+      "speaker": "Nathan",
+      "dialogue": "Yeah. Absolutely. That'd be the other thing that we'd want to also check is the accounts that are\ngonna be like target accounts for you. We can send those over to us. We can send you back our\nmatch rate, our ability to essentially like say we've got coverage within these accounts. And then\nwe can match that intent back to the account list to say all of these accounts that you're going\nafter. These are the ones that are showing the highest intent."
+    },
+    {
+      "timestamp": "45:32",
+      "speaker": "Matt",
+      "dialogue": "Do you, do you return seniority level, of, the users related to the accounts or not?"
+    },
+    {
+      "timestamp": "45:39",
+      "speaker": "Nathan",
+      "dialogue": "Tie it back to the location of where they're coming from. No other there's gonna be able to tell\nyou more like accurately than that based on like GDPR regulations, privacy laws. But we can tell\nyou as."
+    },
+    {
+      "timestamp": "45:52",
+      "speaker": "Matt",
+      "dialogue": "Especially if you're dealing with a third party that's your problem is that you've got a lot of third\nparty data that's driving it, right? So, okay in your first?"
+    },
+    {
+      "timestamp": "45:57",
+      "speaker": "Nathan",
+      "dialogue": "Part of data, like if they've opted into your CRM or Hubspot, that is sorry your map. Like we can\nlike uncover that for you and identify the person that's doing that research once they've opted in\nalready, obviously with this test, we're not gonna be able to do that because we're not\nintegrating with your marketing automation platform, but we can tell you the location data of\nessentially where they're coming from as well."
+    },
+    {
+      "timestamp": "46:21",
+      "speaker": "Matt",
+      "dialogue": "Okay."
+    },
+    {
+      "timestamp": "46:23",
+      "speaker": "Nathan",
+      "dialogue": "I guess just to first thoughts price tag, is that something that's completely out of the wrong with\npossibility?"
+    },
+    {
+      "timestamp": "46:32",
+      "speaker": "Matt",
+      "dialogue": "Well, I mean, what we're not factoring into this is like the ad spend either. And, and so that's like\nkind of the unknown known side of it... that I've got a factor into it because we are doing some,\nbut we're not doing a ton. But for this to be effective, we're gonna probably have to ramp up our\nadvertising. So."
+    },
+    {
+      "timestamp": "46:53",
+      "speaker": "Nathan",
+      "dialogue": "Got it. Are you, do you have like a monthly spend that you're spending right now in ads or is it?47:01 | Matt\nWe, we have a couple of small pools that we're playing with? You know, I'm doing about 1,500 a\nmonth. And, and last, so I've got about 1,500 a month. I'm doing well wise. I don't have to turn it\nback on yet for Adwords and then 1,500 a month that I was doing in Linkedin, but I haven't\nheard those back on either, so."
+    },
+    {
+      "timestamp": "47:17",
+      "speaker": "Nathan",
+      "dialogue": "Got it. Okay. Well, in which case, is there anything?"
+    },
+    {
+      "timestamp": "47:22",
+      "speaker": "Matt",
+      "dialogue": "I."
+    },
+    {
+      "timestamp": "47:23",
+      "speaker": "Nathan",
+      "dialogue": "can get into the sales platform a little bit for you if that would be helpful. And then we can talk\nthrough what some of those next steps might look like. Let me pull up one thing for you here."
+    },
+    {
+      "timestamp": "47:42",
+      "speaker": "Matt",
+      "dialogue": "What's the average ad spin that you see your customers doing?"
+    },
+    {
+      "timestamp": "47:47",
+      "speaker": "Nathan",
+      "dialogue": "This really depends on like where they're at, you know, as far as like, it ranges so much in terms\nof like some people like are just starting with the data and like have very minimum ad spends\nthat like they're just like starting with like google Display ads, they're not really doing much there.\nAnd then they're like going upwards of like thousands of dollars. So just really depends on\nwhere they're at. But... I think one of the things that our team will help you with like as far as like\nimplementation, we have an adoption consultant of like what your goals are and like what, you\nknow, the types of audiences and things that we can create off the bat so that you can start to\nrun those ads, like they'll help you in and making sure that like whatever you want to spend like\nit's going to be optimized... so really quickly pulling up the sales side."
+    },
+    {
+      "timestamp": "48:38",
+      "speaker": "Nathan",
+      "dialogue": "Yep. Cool. So this is gonna be directly living actually in Salesforce. Assuming that that's where\nthey're going to and moving to just be, I framed with them there. Your team is going to walk\naway with a few different things. What accounts to prioritize, who should we go after? What\nshould I say to them? And then assuming you need their contact information, their e-mail and\nphone number. So this is actually my accounts right here. The ones that I'm working with, this is\nall of the accounts in my name. I have 125 accounts and it's showing me the top 44 accounts\nhere."
+    },
+    {
+      "timestamp": "49:16",
+      "speaker": "Matt",
+      "dialogue": "Okay. Well."
+    },
+    {
+      "timestamp": "49:44",
+      "speaker": "Matt",
+      "dialogue": "Or not including, our account reps, yeah."
+    },
+    {
+      "timestamp": "49:47",
+      "speaker": "Nathan",
+      "dialogue": "And how many accounts do they have in their net?"
+    },
+    {
+      "timestamp": "49:52",
+      "speaker": "Matt",
+      "dialogue": "They're, no, they're not even close to like being that mature on it because like I said, we're hiring\nthem most like half of them came on board in the last in the last like 30 days."
+    },
+    {
+      "timestamp": "50:04",
+      "speaker": "Nathan",
+      "dialogue": "Or do they have, a connected?"
+    },
+    {
+      "timestamp": "50:08",
+      "speaker": "Matt",
+      "dialogue": "They, they don't even have territories assigned yet? So."
+    },
+    {
+      "timestamp": "50:11",
+      "speaker": "Nathan",
+      "dialogue": "Okay. It, it's good enough. So in which case, assuming you do get to that point, this would be\ngreat to like know again like pay of the accounts that I have in my name here's how I prioritize\nthem. I can tell them more so of these 44 accounts which are the hottest accounts. And like this\ncan be like the future state of what it looks like. But this could be an also use case, that you\ncould use of the discovery filter. What you can do is upload your list of target accounts. You\ncould also say all the accounts in your CRM. These are accounts that might not live in your\nCRM. And then you can start to filter by different areas that you'd like to. So we can start to filter\nby the intent that they're looking up. So we could say xyz intent people that are looking up\nZoominfo as a competitor of ours. And everyone that's researched Zoominfo in the last 30 days,\none point 3,000 accounts. From there, we can see, I don't know the industry of who we're going\nafter. So let's say the company type we want to say it is."
+    },
+    {
+      "timestamp": "51:22",
+      "speaker": "Matt",
+      "dialogue": "Do you have health care in there? I didn't see healthcare today."
+    },
+    {
+      "timestamp": "51:25",
+      "speaker": "Nathan",
+      "dialogue": "That was a different, yeah. Okay."
+    },
+    {
+      "timestamp": "51:33",
+      "speaker": "Nathan",
+      "dialogue": "Of those one point 3,083 of them follow it in there. So just like this is me like going off the cough\ndifferent ways that I can start to prioritize who I should be going after. In which case, let's say,\nyou know, you're going after some of these larger accounts at abit labs. We don't want to go intothat. See... from here, this is what your reps would be able to see as to how engaged they are.\nSo you can actually click into this page and I'll actually show you a page that gives you a little bit\nmore insight into what like valuable intent looks like. So like data. Axle example of a company\nhere. This is what your reps would be seeing on an account basis. We could see essentially\nthey are intent from a branded, keyword standpoint, what the researching. So we're seeing that\nthey're doing a number of research on our competitors. It's coming from, a couple of different\nlocations, Ohio, Illinois, generic keywords, we can see the web activity of the top pages visited\nand where those visitors are coming from. We can see the tech that they're using the signals.\nBut also we can see the timeline of when they're doing that research. So we can see the\nrecency of that behavior as well. When I click. Once I've seen, you know, we've got some\npeople coming in from Ohio, westerville, Ohio specifically. I want to view all people and that's\nwhere we can start to say, okay, I know that there's time coming from westerville Ohio. I can\ntake this and say, of these people start with location?"
+    },
+    {
+      "timestamp": "53:27",
+      "speaker": "Nathan",
+      "dialogue": "This boils it down to two people. Now, westerville Ohio, the senior director of marketing is a\ntarget persona for us that we would typically be going after. I think in a beth's profile."
+    },
+    {
+      "timestamp": "53:39",
+      "speaker": "Matt",
+      "dialogue": "Are these your loaded contacts or this is like a there my loaded contacts or are they your\ndatabase that makes sense?"
+    },
+    {
+      "timestamp": "53:47",
+      "speaker": "Nathan",
+      "dialogue": "This would be our database. So this have you don't have to have these people in your CRM,\nthis would be working off of our database."
+    },
+    {
+      "timestamp": "53:53",
+      "speaker": "Matt",
+      "dialogue": "Yeah. I mean, the fuzzy and kind of less... it'll be interesting... just because if I go and take like\nvalid health in north east Tennessee... they've got 4,000. Now, it's like 13,000 poles, right? And\nthey're based in Johnson city, bristol, and kingsport, the tri cities area. That's like if you tell them\nwe're going to zero down into that area like it's all 13,500 of them. Yeah, that's the problem with\nlike healthcare is it's so saturated, in those particular markets that they're in. But do you have."
+    },
+    {
+      "timestamp": "54:34",
+      "speaker": "Nathan",
+      "dialogue": "have specific personas that you sell to that are like the ideal persona?"
+    },
+    {
+      "timestamp": "54:40",
+      "speaker": "Matt",
+      "dialogue": "Yeah. Well."
+    },
+    {
+      "timestamp": "54:41",
+      "speaker": "Nathan",
+      "dialogue": "What are those titles typically?"
+    },
+    {
+      "timestamp": "55:00",
+      "speaker": "Nathan",
+      "dialogue": "In which case like a is are up and, I knew that those are my like titles that I'd be going after. Like\nI would take a widespread approach like it's less about that like one specific person who's doing\nthat research because oftentimes when they're shopping for a solution, it's not just like a one off\nlike research and, you know, and if they're doing one off research, it's usually not an account\nthat I'd be going after. So, what I'd be doing is, you know, I'm seeing that there's a lot of intent\ncoming from somewhere, I'd be looking at what that intent is, like what websites are they? Or\nwhat web pages are they looking up? What's the keywords that they're looking up, start to\ninform that my messaging because you're talking about getting more relevant and starting to\nhit up those people across those different roles. And that's where you start to see a more of an\nuplift in the actual results rather than just trying to get that one person. It's not like we're not\ngonna be your silver bullet and no solution is going to be, it's more of like a compass to help\ndrive your strategy of like that account based like multi threaded approach?"
+    },
+    {
+      "timestamp": "55:58",
+      "speaker": "Matt",
+      "dialogue": "Sorry, I've got a messages coming through about the meeting I'm going to be on a."
+    },
+    {
+      "timestamp": "56:02",
+      "speaker": "Nathan",
+      "dialogue": "No worries. I'll pause there though, I guess just as far as like... and I can give you a second so\nyou can take with like a."
+    },
+    {
+      "timestamp": "56:13",
+      "speaker": "Matt",
+      "dialogue": "Yeah, hat was a good run the."
+    },
+    {
+      "timestamp": "56:16",
+      "speaker": "Nathan",
+      "dialogue": "The sales side again, like we can get deeper into it. I just wanted to give you some visibility and\nlike what that look like given that might be like future state down the road, like what you guys\nmight be, your team might be leveraging to help with, you know, their outreach."
+    },
+    {
+      "timestamp": "56:28",
+      "speaker": "Matt",
+      "dialogue": "Yeah. I mean, it would be interesting to look at it to kind of understand that out of the data too.\nBecause like I said, we have a subscription... into the database for health care. It would be."
+    },
+    {
+      "timestamp": "56:44",
+      "speaker": "Nathan",
+      "dialogue": "Definitive health care, you said?"
+    },
+    {
+      "timestamp": "56:46",
+      "speaker": "Matt",
+      "dialogue": "Yeah. And, and like Zoominfo for example, has never been that great at healthcare but, and an\nunderstanding, you know, kind of the value you bring there. So.56:57 | Nathan\nYeah. And,"
+    },
+    {
+      "timestamp": "56:57",
+      "speaker": "Matt",
+      "dialogue": "I mean, we."
+    },
+    {
+      "timestamp": "56:58",
+      "speaker": "Nathan",
+      "dialogue": "could obviously have that conversation, like when it makes sense. Obviously, you want to make\nsure that we get you what you need now as far as like making, you know, an informed decision\nas far as like the key use cases that you care about, which sounded like."
+    },
+    {
+      "timestamp": "57:10",
+      "speaker": "Matt",
+      "dialogue": "No, I mean, that I care about that one. I mean, it represents like a duplicate and potentially\nduplicative services. So like I don't want to pay for two of them. If, if both of them provide the\nsame value, then, you know, you see what I'm saying?"
+    },
+    {
+      "timestamp": "57:29",
+      "speaker": "Nathan",
+      "dialogue": "Yeah. Worth noting. I don't know if I call this out, but the sales side that I just showed you is like\na car by moving forward with like what I showed you first, like you don't necessarily need that\nsecond part."
+    },
+    {
+      "timestamp": "57:39",
+      "speaker": "Matt",
+      "dialogue": "So, it'd be interesting to understand the sales side of it and the cost structure on that."
+    },
+    {
+      "timestamp": "57:43",
+      "speaker": "Nathan",
+      "dialogue": "Yeah, you'd be looking at like four users is roughly what you."
+    },
+    {
+      "timestamp": "57:51",
+      "speaker": "Matt",
+      "dialogue": "IU, I would say probably six potentially seven because a better VP of sales, we're gonna do\nit. We want to do it. So."
+    },
+    {
+      "timestamp": "58:01",
+      "speaker": "Nathan",
+      "dialogue": "Okay. In which case, you'd roughly be looking at just based on like the typical amount of credits\nthat like six seven users present, you'd be looking at like a 25,000 dollars a year subscription,\nsomething around that ballpark with 67 users. Okay? And it's the same data set that you'd be\nleveraging from the marketing side. It's the same. It's that same granularity."
+    },
+    {
+      "timestamp": "58:27",
+      "speaker": "Matt",
+      "dialogue": "Okay. Yeah. And then, and then it goes back to like kind of, what is your density of the\ninformation, for health care? So... cool. Well, it sounds like it's free."
+    },
+    {
+      "timestamp": "58:58",
+      "speaker": "Matt",
+      "dialogue": "Understanding the quality of, the sales side of the database. Like, I need to understand that. So\nlike we would need to get on and poke at a couple of accounts, and, you know, test, what you\nhave in there, what type of titles we have in there, those types of things. Okay?"
+    },
+    {
+      "timestamp": "59:13",
+      "speaker": "Nathan",
+      "dialogue": "A great. When I'm gonna send you these instructions for the data tests that we can get these up\nand running. Okay? How soon do you think that you can get like the web tag on your side?"
+    },
+    {
+      "timestamp": "59:28",
+      "speaker": "Matt",
+      "dialogue": "I don't know. It probably won't be next week because I'm bailing water on a couple of\nprojects, but get it to me and I'll work on it. Okay?"
+    },
+    {
+      "timestamp": "59:36",
+      "speaker": "Nathan",
+      "dialogue": "What is, where the takes a couple of minutes?"
+    },
+    {
+      "timestamp": "59:39",
+      "speaker": "Matt",
+      "dialogue": "No, I know, I mean, I could put it in google tag manager, but it means some stopping to go to\nit. So as I told you, I've been kind of slammed on something."
+    },
+    {
+      "timestamp": "59:47",
+      "speaker": "Nathan",
+      "dialogue": "Okay. All right. Well, I'll leave it to you then like how it would be as valuable as when we could\nget the tag up and running is when it would make sense to connect next. How soon do you think\nthen? Like do you want to put like a backstop for like."
+    },
+    {
+      "timestamp": "00:08",
+      "speaker": "Matt",
+      "dialogue": "No, I mean, like you need to send me the instructions for everything you need from me. And\nthen I'll prioritize it when I've got time basically. And if it happens next week, it does, if not, then\nI'm looking out two weeks so... that's all because, I mean you, I'm just gonna have to stop and\nthink and go do it. And I'm trying to get some other stuff done, so."
+    },
+    {
+      "timestamp": "00:26",
+      "speaker": "Nathan",
+      "dialogue": "Okay. Anything else I can help with in the meantime?"
+    },
+    {
+      "timestamp": "00:29",
+      "speaker": "Matt",
+      "dialogue": "No, I don't think so."
+    },
+    {
+      "timestamp": "00:31",
+      "speaker": "Nathan",
+      "dialogue": "Awesome. Well, hope this is a valuable use of your time. Perfect. Well, I'll get ahead and sendthose instructions over. Should you have any questions, let me know, but I'll send a follow up as\nwell and send the recording to travers so that he could see it as well?"
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "Matt",
+      "dialogue": "Cool. Sounds good. Thank."
+    },
+    {
+      "timestamp": "00:47",
+      "speaker": "Nathan",
+      "dialogue": "Appreciate it. See you. Bye bye."
+    }
+  ]
+}

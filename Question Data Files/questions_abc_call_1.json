@@ -1,0 +1,47 @@
+[
+  {
+    "question": "How are you, Matt?",
+    "answer": "I'm good. How are you doing well?",
+    "rating": "Average"
+  },
+  {
+    "question": "What else were you hoping to cover today?",
+    "answer": "No, I think it's good. I mean, ABM... is it's something we need to continue advancing? We've done some fun projects... and have always kind of operated under ABM approach but using additional channels... as a priority force.",
+    "rating": "Good"
+  },
+  {
+    "question": "When you say we, is this like a company wide thing? Like who are you talking about your ABM strategy with?",
+    "answer": "I mean, sales would be, my partner, it, but we're driving it. I mean, they approach it. Health care is unique in that if you're selling enterprise health care, you basically have 2000 ids that you're targeting. And... so I mean, in essence, if you're gonna be an enterprise health care, you have to be doing ABM, but we've spread downstream somewhat into urgent care and in primary care, large, urgent care and primary care.",
+    "rating": "Best"
+  },
+  {
+    "question": "How much of a priority is that, for your team right now?",
+    "answer": "I would say it's a bigger priority for me than it probably is everybody else in the company because we think that far out does that makes sense? I would say sales and customer success are really hyper focused on like what can we do right now with what we've got versus what are we going to do to ramp?",
+    "rating": "Best"
+  },
+  {
+    "question": "Marketing channels that you're currently using today. I know you mentioned like a few different like tools and like things that you're using. Are you like running paid ads? Like how are you driving traffic to your website right now?",
+    "answer": "Paid ads are not turned on really right now primarily because we just folded over websites and have it fully set up in google Adwords. Again, we need, to get back to that but, we were waiting to see kind of where the dust settled. We still get a third site. We've got to fold in this month. Seo has been historically, a Strong driver for us for around some key terms. But I'm expecting we've got to make up some ground visit.",
+    "rating": "Best"
+  },
+  {
+    "question": "Do you have any familiarity with xyz before I kind of hop into a little bit at?",
+    "answer": "I have a little bit. I think I poked that you all maybe a year ago as I was maybe further back than that to be honest with you, but I know a little bit about you, so.",
+    "rating": "Good"
+  },
+  {
+    "question": "How many people are typically in a buying committee for a abc?",
+    "answer": "Health system would be like 20 primary care group three or four for... you know, urgent care group. You can two three, four. Something like that. There's a lot of stakeholders that point on the health system side of it.",
+    "rating": "Best"
+  },
+  {
+    "question": "What is low spend customer acquisition campaign to mean for you?",
+    "answer": "So you're remarketing at that point Retargeting, okay. Yeah.",
+    "rating": "Good"
+  },
+  {
+    "question": "Are you using anything like that today?",
+    "answer": "We use defendative health care which is hyper focused, in health care that's probably the definitive healthcare database.",
+    "rating": "Good"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What exactly are you hoping to get out of today's call?",
+    "answer": "I have a few questions that I can walk through. You know, I think just Matt mentioned it. I just initially had requested Zoom info. So talking through maybe just some of the differentiators there, understanding why, you know, I saw the deck why folks have slipped over... and then a couple of just maybe talking through a couple of the features that were on that like on the bottom of the slide two there. Just so just understanding what to what those do and if they are kind of unique to xyz or if they're you know, pretty standard in the market. It's quick rundown of what I'm looking for there.",
+    "rating": "Best"
+  },
+  {
+    "question": "Have you used Zoom info in the past?",
+    "answer": "I didn't so I came from amwell, I think there are Zoom info customer and we had a team, that would use it. I probably used it through integration in Salesforce, but I didn't actually use, the ui on it at all.",
+    "rating": "Good"
+  },
+  {
+    "question": "Are you looking at this as like a, you know, mentioned Matt as a replacement to definitive health care or a compliment?",
+    "answer": "Compliment. I think it's, the best way to look at it. I do, I haven't found anybody that is as expansive, in healthcare is definitive, but definitive is kind of short on contact info. So.",
+    "rating": "Best"
+  },
+  {
+    "question": "Do you guys scale pricing based on a number of topics?",
+    "answer": "No. So you have an unlimited amount of keywords, it's a little bit different which is important, to note versus topics, with. Zoominfo. Topics are limited to the amount of topics, that they provide you. They have like a hand select of what they're able to offer you what xyz of the value. And like our keywords is that because they're customizable, you can track anything that's gonna be very relevant to your business.",
+    "rating": "Good"
+  },
+  {
+    "question": "Do you have so with a like, do you have recommended keywords based on kind of the success of leveraging those in the past? Or how does the errors at all? Just we plug in whatever we want customized, how?",
+    "answer": "Both, you can obviously start with whatever you'd like as far as the keywords that you want. We could also provide some kind of recommendations based on what other customers that like abc are using. That's part of what, our adoption consultant like CSM team would help you with it's.",
+    "rating": "Good"
+  },
+  {
+    "question": "I had a couple of questions on the contact info. So I primarily leverage e-mail it seemed like Zoom info head based on the status that you showed had significantly more emails. Is that, do you guys put a focus on phone numbers or can you walk me through that?",
+    "answer": "Yeah. Let me reference what I was pulling up for you in the most recent numbers because they are often changing. We actually just published some new documentation on our contact data that I can send as a follow up as far as like how we prioritize emails and phone numbers. I don't think like we have like an active like, hey, we're only going to focus on phone numbers verse emails. It's a kind of rowing number that we have, but let me follow up with some additional details and like where we, where our investments are going if you will.",
+    "rating": "Good"
+  }
+]
